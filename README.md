@@ -6,12 +6,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Full%20Stack%20Web%20Developer%20%26%20Embedded%20Systems%20Engineer;From%20Hardware%20Registers%20to%20Cloud%20Platforms;C%2FC%2B%2B%20%7C%20FreeRTOS%20%7C%20Node.js%20%7C%20React%20%7C%20IoT" alt="Typing SVG" />
   </a>
 
-  <p align="center">
-    <a href="https://linkedin.com/in/SEU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:seu-email@dominio.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://SEU_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
-  </p>
-
 </div>
 
 ### 🛠️ Stack & Tecnologias
