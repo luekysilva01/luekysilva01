@@ -20,7 +20,7 @@
   <table>
     <tr>
       <td align="left"><b>🔌 Sistemas Embarcados & IoT</b></td>
-      <td><code>C</code> <code>C++</code> <code>FreeRTOS</code> <code>ESP-IDF</code> <code>STM32/CubeMX</code> <code>UART/SPI/I2C/CAN</code> <code>MQTT</code> <code>BLE</code></td>
+      <td><code>C</code> <code>C++</code> <code>FreeRTOS</code> <code>MQTT</code>
     </tr>
     <tr>
       <td align="left"><b>🌐 Desenvolvimento Web</b></td>
