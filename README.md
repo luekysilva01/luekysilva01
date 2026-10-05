@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=200&section=header&text=Olá,%20eu%20sou%20o%20Victor!&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer+%26+Embedded+Systems;Do+Hardware+(C%2FC%2B%2B)+à+Nuvem+(Web);Desenvolvedor+de+Sistemas+Embarcados+%26+IoT" alt="Typing SVG" />
   </a>
   <br>
   <p><b>Transformando hardware e código em soluções completas.</b></p>
