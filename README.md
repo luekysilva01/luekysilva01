@@ -9,17 +9,6 @@
 
 ---
 
-### Sobre Mim
-
-Sou um desenvolvedor apaixonado por entender como as coisas funcionam "por debaixo dos panos", unindo o mundo físico ao digital. Minha base inicial em **Fabricação Mecânica** me deu uma visão prática sobre processos industriais e integração de sistemas, o que me impulsionou a migrar para a área de Tecnologia com um foco forte na ponte entre hardware e software.
-
-*   Atualmente construindo ferramentas de linha de comando em Python e explorando a arquitetura de micro-kernels para microcontroladores.
-*   Aprofundando meus conhecimentos em **C/C++ de baixo nível**, FreeRTOS, ESP-IDF e desenvolvimento de shells customizados para **ESP32** e Arduino.
-*   Possuo certificações em fundamentos de segurança de redes pelo **Fortinet Training Institute**.
-*   No meu tempo livre, gosto de aplicar engenharia no dia a dia, seja otimizando a rede LAN de casa, resolvendo problemas de comunicação via sockets ou criando projetos de isolamento acústico DIY.
-
----
-
 ### 🛠️ Stack & Tecnologias
 
 <div align="center">
