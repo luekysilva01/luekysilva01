@@ -26,9 +26,3 @@
 | **Infraestrutura, Redes & Cloud** | `PostgreSQL` • `Docker` • `AWS IoT Core` • `Linux` • `Sockets` |
 
 
-### Vamos nos conectar!
-
-<div align="center">
-  <a href="lueky.silva01@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/victor-silva-5457b1429/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
