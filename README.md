@@ -9,7 +9,7 @@
 
 ---
 
-### 🛠️ Stack & Tecnologias
+### Stack & Tecnologias
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -26,3 +26,7 @@
 | **Infraestrutura, Redes & Cloud** | `PostgreSQL` • `Docker` • `AWS IoT Core` • `Linux` • `Sockets` |
 
 
+---
+
+### Projetos
+<img width="1919" height="906" alt="Captura de tela 2026-10-13 130012" src="https://github.com/user-attachments/assets/d47d1f1b-0021-43b5-bfcf-fcd5ee3965c4" />
