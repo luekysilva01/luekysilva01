@@ -28,5 +28,6 @@
 
 ---
 
-### Projetos
+# Projetos portfólio
+
 <img width="1919" height="906" alt="Captura de tela 2026-10-13 130012" src="https://github.com/user-attachments/assets/d47d1f1b-0021-43b5-bfcf-fcd5ee3965c4" />
